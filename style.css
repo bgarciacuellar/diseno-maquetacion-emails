@@ -141,4 +141,6 @@ h3{
 .progress-line.mysql span::after{
   content: "75%";
   background: #34aa44;
+  margin-bottom: 10px;
+  
 }
