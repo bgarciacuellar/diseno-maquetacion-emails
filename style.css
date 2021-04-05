@@ -4,6 +4,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+  background: #ffffff;
 }
 html,body{
   display: grid;
@@ -142,5 +143,9 @@ h3{
   content: "75%";
   background: #34aa44;
   margin-bottom: 10px;
+
+  text-transform: capitalize;
+  font-size: 24px;
+  font-weight: 600;
   
 }
