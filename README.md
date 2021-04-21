@@ -1,4 +1,4 @@
-# email-alferza
-Correo de plataforma AlferzaJobs
+# email-marketing
+Diseño y Maquetación para Emails
 
 https://bgarciacuellar.github.io/email-alferza/
